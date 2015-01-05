@@ -17,7 +17,7 @@ openwrt-brcm2708-sdcard-vfat-ext4.img 이미지를 라즈베리에 사용할 SDC
 
 
 ## 재배포자
-엔텔스 porduct개발팀 
+엔텔스 product개발팀 
 
 * 이상훈
 * 오준호
